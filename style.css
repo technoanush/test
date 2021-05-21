@@ -1,0 +1,23 @@
+body{
+	padding-top: 50px;
+	background-color: lightgrey;
+	text-align: center;
+}
+.about{
+ font-size: 40px;
+ font-family: 'Roboto', sans-serif;
+}
+hr{
+	width: 60px;
+  border-top: 3px solid black;
+}
+.text{
+	width: 600px;
+	margin: auto;
+	margin-top: 50px;
+	 font-family: 'Roboto', sans-serif;
+}
+p{
+		 font-family: 'Roboto', sans-serif;
+
+}
